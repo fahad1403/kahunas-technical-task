@@ -1,0 +1,201 @@
+workout_id,workout_type,difficulty,duration_minutes,muscle_group,equipment_required,calories_burn
+1,CrossFit,Medium,15,Upper Body,Resistance Bands,521
+2,Strength,Medium,15,Lower Body,None,420
+3,Strength,Medium,30,Core,Resistance Bands,174
+4,Strength,Hard,45,Full Body,Kettlebell,379
+5,Strength,Medium,30,Core,Dumbbells,402
+6,HIIT,Easy,30,Lower Body,Dumbbells,260
+7,CrossFit,Easy,45,Full Body,Barbell,349
+8,Cardio,Medium,30,Core,Dumbbells,254
+9,CrossFit,Easy,45,Core,None,453
+10,HIIT,Hard,45,Upper Body,Kettlebell,337
+11,Strength,Medium,30,Full Body,Resistance Bands,208
+12,HIIT,Easy,60,Core,Kettlebell,367
+13,Yoga,Easy,45,Core,Dumbbells,406
+14,Yoga,Medium,30,Upper Body,Resistance Bands,320
+15,CrossFit,Easy,45,Core,Barbell,348
+16,CrossFit,Medium,60,Core,Kettlebell,293
+17,Cardio,Easy,60,Core,Resistance Bands,187
+18,Cardio,Hard,15,Upper Body,Resistance Bands,285
+19,Yoga,Easy,45,Core,Resistance Bands,352
+20,Strength,Easy,45,Core,None,287
+21,HIIT,Medium,30,Full Body,Kettlebell,380
+22,Cardio,Easy,45,Full Body,Resistance Bands,261
+23,Cardio,Medium,15,Upper Body,Kettlebell,267
+24,Strength,Hard,60,Lower Body,Resistance Bands,383
+25,Strength,Medium,60,Full Body,Barbell,322
+26,CrossFit,Medium,15,Upper Body,Barbell,259
+27,HIIT,Easy,45,Core,Barbell,403
+28,Strength,Hard,45,Core,Dumbbells,231
+29,Cardio,Medium,15,Upper Body,Resistance Bands,227
+30,Cardio,Easy,30,Core,Dumbbells,17
+31,Yoga,Easy,60,Core,Kettlebell,245
+32,Strength,Medium,15,Lower Body,Dumbbells,431
+33,CrossFit,Easy,15,Core,Kettlebell,93
+34,HIIT,Medium,45,Full Body,Kettlebell,205
+35,CrossFit,Medium,60,Core,Kettlebell,344
+36,Cardio,Medium,45,Upper Body,Dumbbells,76
+37,CrossFit,Hard,15,Lower Body,Resistance Bands,249
+38,Cardio,Medium,30,Core,Dumbbells,414
+39,Cardio,Easy,60,Upper Body,Resistance Bands,504
+40,Cardio,Hard,15,Full Body,Resistance Bands,329
+41,Cardio,Easy,15,Core,Kettlebell,207
+42,Cardio,Hard,30,Lower Body,Dumbbells,204
+43,Yoga,Hard,15,Core,Resistance Bands,314
+44,CrossFit,Hard,15,Upper Body,Barbell,328
+45,Yoga,Hard,60,Lower Body,Resistance Bands,486
+46,Yoga,Easy,60,Core,Barbell,397
+47,Strength,Medium,60,Full Body,Dumbbells,308
+48,Strength,Easy,45,Lower Body,Dumbbells,266
+49,Strength,Medium,30,Full Body,Dumbbells,601
+50,HIIT,Easy,60,Upper Body,Resistance Bands,363
+51,Strength,Hard,45,Core,None,233
+52,CrossFit,Hard,45,Full Body,Resistance Bands,278
+53,Yoga,Medium,30,Upper Body,Resistance Bands,212
+54,CrossFit,Medium,30,Core,Kettlebell,60
+55,Strength,Easy,15,Upper Body,Kettlebell,331
+56,HIIT,Medium,45,Full Body,Resistance Bands,478
+57,HIIT,Easy,60,Upper Body,Barbell,137
+58,Yoga,Medium,30,Lower Body,Kettlebell,306
+59,CrossFit,Medium,45,Core,Resistance Bands,229
+60,Cardio,Medium,60,Upper Body,None,352
+61,CrossFit,Hard,45,Full Body,Barbell,283
+62,Strength,Hard,30,Core,Dumbbells,164
+63,Cardio,Easy,15,Lower Body,Resistance Bands,202
+64,HIIT,Medium,45,Core,Resistance Bands,217
+65,Yoga,Easy,60,Lower Body,Barbell,434
+66,Yoga,Medium,30,Core,Kettlebell,429
+67,HIIT,Hard,15,Upper Body,Kettlebell,269
+68,Strength,Hard,60,Upper Body,Kettlebell,423
+69,HIIT,Medium,60,Full Body,Dumbbells,283
+70,Strength,Medium,60,Lower Body,Barbell,267
+71,Cardio,Hard,45,Full Body,Barbell,306
+72,HIIT,Hard,30,Upper Body,Kettlebell,328
+73,Strength,Easy,60,Lower Body,Kettlebell,244
+74,Cardio,Hard,45,Full Body,None,302
+75,HIIT,Medium,30,Full Body,None,379
+76,Yoga,Easy,30,Full Body,Resistance Bands,313
+77,HIIT,Medium,45,Full Body,Resistance Bands,304
+78,CrossFit,Easy,45,Full Body,Barbell,349
+79,HIIT,Medium,60,Lower Body,Barbell,367
+80,CrossFit,Hard,30,Full Body,Dumbbells,294
+81,Cardio,Medium,15,Lower Body,Dumbbells,253
+82,HIIT,Easy,45,Full Body,None,319
+83,Cardio,Medium,30,Upper Body,Resistance Bands,141
+84,Cardio,Easy,30,Upper Body,None,279
+85,Strength,Medium,60,Full Body,None,53
+86,Cardio,Hard,15,Core,Resistance Bands,132
+87,Cardio,Hard,60,Upper Body,Dumbbells,117
+88,HIIT,Medium,15,Lower Body,Resistance Bands,405
+89,HIIT,Medium,15,Full Body,Kettlebell,301
+90,Yoga,Medium,45,Lower Body,Kettlebell,174
+91,Strength,Easy,30,Core,Kettlebell,349
+92,Cardio,Medium,30,Full Body,Barbell,399
+93,Strength,Medium,30,Upper Body,Dumbbells,351
+94,CrossFit,Easy,15,Lower Body,Dumbbells,281
+95,Cardio,Hard,30,Upper Body,Barbell,323
+96,Strength,Medium,45,Upper Body,None,390
+97,Yoga,Medium,15,Full Body,Kettlebell,253
+98,Yoga,Hard,15,Lower Body,Kettlebell,303
+99,Cardio,Hard,15,Core,None,274
+100,CrossFit,Easy,15,Upper Body,Resistance Bands,139
+101,Yoga,Medium,45,Full Body,Resistance Bands,392
+102,Yoga,Medium,30,Full Body,Dumbbells,506
+103,CrossFit,Easy,45,Core,Barbell,213
+104,Strength,Hard,30,Full Body,Dumbbells,396
+105,Yoga,Easy,45,Upper Body,Resistance Bands,216
+106,HIIT,Hard,60,Full Body,None,313
+107,Yoga,Easy,60,Lower Body,Dumbbells,451
+108,Strength,Hard,60,Lower Body,Kettlebell,248
+109,Strength,Easy,60,Upper Body,Kettlebell,299
+110,Cardio,Hard,15,Lower Body,None,120
+111,HIIT,Hard,15,Core,Resistance Bands,234
+112,Strength,Hard,45,Full Body,Kettlebell,109
+113,CrossFit,Hard,45,Upper Body,Kettlebell,343
+114,HIIT,Hard,60,Core,Barbell,383
+115,HIIT,Medium,30,Full Body,Dumbbells,278
+116,CrossFit,Hard,60,Core,Resistance Bands,329
+117,Yoga,Medium,45,Upper Body,Dumbbells,267
+118,CrossFit,Hard,60,Upper Body,Resistance Bands,374
+119,CrossFit,Medium,45,Core,Kettlebell,313
+120,Yoga,Medium,60,Full Body,Barbell,101
+121,Yoga,Easy,30,Lower Body,Dumbbells,394
+122,Yoga,Hard,60,Lower Body,Kettlebell,261
+123,Yoga,Easy,30,Core,Resistance Bands,173
+124,Yoga,Easy,30,Upper Body,Dumbbells,256
+125,CrossFit,Hard,45,Full Body,Dumbbells,110
+126,Cardio,Easy,30,Full Body,Kettlebell,175
+127,Cardio,Hard,15,Upper Body,Dumbbells,314
+128,Strength,Easy,15,Lower Body,Barbell,323
+129,Cardio,Hard,15,Full Body,Barbell,331
+130,Cardio,Hard,45,Core,Kettlebell,300
+131,CrossFit,Hard,15,Lower Body,Resistance Bands,231
+132,Yoga,Medium,45,Core,Kettlebell,295
+133,Yoga,Easy,45,Lower Body,Barbell,256
+134,CrossFit,Medium,15,Upper Body,None,137
+135,Cardio,Easy,30,Core,None,223
+136,CrossFit,Easy,60,Core,Dumbbells,389
+137,Strength,Easy,45,Upper Body,Dumbbells,459
+138,Yoga,Medium,15,Core,None,365
+139,HIIT,Easy,45,Lower Body,Barbell,454
+140,Strength,Medium,30,Full Body,Dumbbells,309
+141,Strength,Hard,30,Full Body,Kettlebell,474
+142,CrossFit,Easy,15,Upper Body,Kettlebell,505
+143,Cardio,Easy,45,Lower Body,Barbell,127
+144,Yoga,Hard,60,Core,Dumbbells,322
+145,HIIT,Hard,60,Core,Kettlebell,309
+146,Strength,Easy,45,Full Body,Dumbbells,258
+147,HIIT,Hard,45,Core,Dumbbells,349
+148,Cardio,Medium,45,Full Body,Kettlebell,304
+149,Cardio,Medium,15,Upper Body,None,226
+150,HIIT,Easy,30,Core,Kettlebell,297
+151,Yoga,Medium,60,Lower Body,Barbell,420
+152,Cardio,Medium,15,Core,Resistance Bands,318
+153,HIIT,Easy,45,Full Body,Kettlebell,363
+154,Strength,Hard,45,Upper Body,Dumbbells,272
+155,HIIT,Easy,30,Full Body,Dumbbells,345
+156,HIIT,Medium,45,Core,Kettlebell,179
+157,CrossFit,Easy,15,Full Body,Resistance Bands,250
+158,Cardio,Easy,15,Full Body,Kettlebell,290
+159,Yoga,Medium,30,Upper Body,Resistance Bands,172
+160,Yoga,Medium,15,Lower Body,Resistance Bands,217
+161,CrossFit,Easy,60,Core,Barbell,331
+162,Yoga,Medium,15,Upper Body,Dumbbells,313
+163,HIIT,Medium,15,Lower Body,Dumbbells,381
+164,CrossFit,Medium,15,Full Body,Resistance Bands,240
+165,Strength,Medium,60,Lower Body,Dumbbells,306
+166,Cardio,Medium,45,Full Body,None,233
+167,Cardio,Medium,15,Full Body,Resistance Bands,371
+168,Cardio,Hard,30,Upper Body,Dumbbells,419
+169,HIIT,Easy,60,Full Body,None,348
+170,Strength,Medium,30,Upper Body,Barbell,406
+171,CrossFit,Easy,15,Lower Body,Dumbbells,303
+172,CrossFit,Hard,30,Lower Body,None,381
+173,Cardio,Medium,15,Full Body,Kettlebell,308
+174,Strength,Easy,60,Upper Body,Kettlebell,198
+175,Strength,Medium,30,Full Body,None,325
+176,Strength,Medium,30,Upper Body,Resistance Bands,200
+177,Yoga,Medium,15,Upper Body,Resistance Bands,534
+178,Yoga,Medium,15,Upper Body,Dumbbells,267
+179,Cardio,Medium,45,Lower Body,Kettlebell,365
+180,Strength,Medium,15,Upper Body,Resistance Bands,299
+181,Strength,Medium,15,Lower Body,Resistance Bands,177
+182,CrossFit,Hard,45,Upper Body,Kettlebell,110
+183,CrossFit,Hard,15,Lower Body,Barbell,375
+184,Cardio,Medium,15,Core,Resistance Bands,455
+185,Strength,Medium,45,Lower Body,None,227
+186,Cardio,Hard,60,Lower Body,Dumbbells,134
+187,CrossFit,Hard,60,Full Body,Resistance Bands,267
+188,CrossFit,Hard,15,Upper Body,Resistance Bands,206
+189,Yoga,Medium,15,Core,Barbell,235
+190,Cardio,Easy,45,Full Body,None,361
+191,Cardio,Easy,45,Upper Body,Dumbbells,295
+192,Strength,Easy,60,Core,Resistance Bands,217
+193,Strength,Easy,30,Core,Dumbbells,359
+194,Yoga,Medium,15,Core,Kettlebell,367
+195,HIIT,Easy,30,Upper Body,Resistance Bands,266
+196,HIIT,Hard,30,Core,Resistance Bands,314
+197,HIIT,Hard,45,Core,Kettlebell,352
+198,Cardio,Easy,15,Full Body,Barbell,343
+199,Cardio,Hard,15,Lower Body,Resistance Bands,304
+200,CrossFit,Medium,45,Upper Body,Dumbbells,443

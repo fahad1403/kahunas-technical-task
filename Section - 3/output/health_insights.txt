@@ -1,0 +1,270 @@
+Health Data Analysis Report
+==================================================
+
+
+User 1 Analysis
+--------------------------------------------------
+
+Key Insights:
+- Strong positive correlation between sleep quality and performance.
+- Daily step count is below recommended level (7000 steps).
+
+Average Metrics:
+avg_steps: 6191.5
+avg_heart_rate: 70.5
+avg_sleep_hours: 7.4
+avg_sleep_quality: 75.4
+avg_performance: 71.9
+
+Correlations:
+sleep_quality_vs_performance: 0.82
+steps_vs_performance: 0.69
+heart_rate_vs_performance: -0.15
+
+Weekly Performance Trend (ASCII Chart):
+    73.5 | ██████████████████████████████████████████████████
+    72.3 | █████████████████████████████
+    72.7 | ████████████████████████████████████
+    70.6 | 
+    70.8 | ███
+--------------------------------------------------
+
+User 2 Analysis
+--------------------------------------------------
+
+Key Insights:
+- Strong positive correlation between sleep quality and performance.
+- Daily step count is below recommended level (7000 steps).
+- Average sleep duration is below recommended 7-9 hours.
+
+Average Metrics:
+avg_steps: 5464.9
+avg_heart_rate: 75.6
+avg_sleep_hours: 6.7
+avg_sleep_quality: 67.5
+avg_performance: 63.5
+
+Correlations:
+sleep_quality_vs_performance: 0.66
+steps_vs_performance: 0.58
+heart_rate_vs_performance: 0.01
+
+Weekly Performance Trend (ASCII Chart):
+    60.2 | 
+    63.7 | ███████████████████████████████████
+    63.4 | ████████████████████████████████
+    65.1 | ██████████████████████████████████████████████████
+    63.4 | ████████████████████████████████
+--------------------------------------------------
+
+User 3 Analysis
+--------------------------------------------------
+
+Key Insights:
+- Strong positive correlation between sleep quality and performance.
+- Average sleep duration is below recommended 7-9 hours.
+
+Average Metrics:
+avg_steps: 8437.6
+avg_heart_rate: 69.6
+avg_sleep_hours: 6.6
+avg_sleep_quality: 69.3
+avg_performance: 76.7
+
+Correlations:
+sleep_quality_vs_performance: 0.82
+steps_vs_performance: 0.67
+heart_rate_vs_performance: -0.06
+
+Weekly Performance Trend (ASCII Chart):
+    77.5 | ████████████████████████████
+    73.7 | 
+    80.4 | ██████████████████████████████████████████████████
+    76.7 | ██████████████████████
+    75.2 | ███████████
+--------------------------------------------------
+
+User 4 Analysis
+--------------------------------------------------
+
+Key Insights:
+- Strong positive correlation between sleep quality and performance.
+
+Average Metrics:
+avg_steps: 7613.1
+avg_heart_rate: 74.7
+avg_sleep_hours: 9.0
+avg_sleep_quality: 88.7
+avg_performance: 78.9
+
+Correlations:
+sleep_quality_vs_performance: 0.52
+steps_vs_performance: 0.51
+heart_rate_vs_performance: -0.43
+
+Weekly Performance Trend (ASCII Chart):
+    79.8 | ████████████████████████████████
+    82.3 | ██████████████████████████████████████████████████
+    74.9 | 
+    78.1 | ██████████████████████
+    80.2 | ███████████████████████████████████
+--------------------------------------------------
+
+User 5 Analysis
+--------------------------------------------------
+
+Key Insights:
+- Strong positive correlation between sleep quality and performance.
+- Daily step count is below recommended level (7000 steps).
+
+Average Metrics:
+avg_steps: 6675.0
+avg_heart_rate: 73.3
+avg_sleep_hours: 7.2
+avg_sleep_quality: 68.2
+avg_performance: 68.9
+
+Correlations:
+sleep_quality_vs_performance: 0.82
+steps_vs_performance: 0.46
+heart_rate_vs_performance: -0.34
+
+Weekly Performance Trend (ASCII Chart):
+    63.8 | 
+    68.9 | ████████████████████████████
+    66.6 | ███████████████
+    72.9 | ██████████████████████████████████████████████████
+    70.6 | █████████████████████████████████████
+--------------------------------------------------
+
+User 6 Analysis
+--------------------------------------------------
+
+Key Insights:
+- Strong positive correlation between sleep quality and performance.
+
+Average Metrics:
+avg_steps: 8568.6
+avg_heart_rate: 70.9
+avg_sleep_hours: 7.2
+avg_sleep_quality: 67.8
+avg_performance: 75.8
+
+Correlations:
+sleep_quality_vs_performance: 0.87
+steps_vs_performance: 0.65
+heart_rate_vs_performance: -0.58
+
+Weekly Performance Trend (ASCII Chart):
+    79.2 | ██████████████████████████████████████████████
+    73.6 | ████████████
+    75.0 | █████████████████████
+    79.9 | ██████████████████████████████████████████████████
+    71.4 | 
+--------------------------------------------------
+
+User 7 Analysis
+--------------------------------------------------
+
+Key Insights:
+- Strong positive correlation between sleep quality and performance.
+- Excellent daily step count, maintaining above 10000 steps!
+
+Average Metrics:
+avg_steps: 10477.9
+avg_heart_rate: 65.9
+avg_sleep_hours: 8.2
+avg_sleep_quality: 82.7
+avg_performance: 90.7
+
+Correlations:
+sleep_quality_vs_performance: 0.66
+steps_vs_performance: 0.69
+heart_rate_vs_performance: -0.22
+
+Weekly Performance Trend (ASCII Chart):
+    93.2 | ██████████████████████████████████████████████████
+    92.7 | █████████████████████████████████████████████
+    89.3 | ██████████████
+    87.7 | 
+    91.8 | ████████████████████████████████████
+--------------------------------------------------
+
+User 8 Analysis
+--------------------------------------------------
+
+Key Insights:
+- Strong positive correlation between sleep quality and performance.
+- Excellent daily step count, maintaining above 10000 steps!
+
+Average Metrics:
+avg_steps: 11555.7
+avg_heart_rate: 70.2
+avg_sleep_hours: 8.1
+avg_sleep_quality: 81.4
+avg_performance: 90.6
+
+Correlations:
+sleep_quality_vs_performance: 0.69
+steps_vs_performance: 0.44
+heart_rate_vs_performance: -0.21
+
+Weekly Performance Trend (ASCII Chart):
+    88.2 | 
+    92.4 | ██████████████████████████████████████████████████
+    90.9 | ███████████████████████████████
+    88.9 | ███████
+    92.0 | ████████████████████████████████████████████
+--------------------------------------------------
+
+User 9 Analysis
+--------------------------------------------------
+
+Key Insights:
+- Strong positive correlation between sleep quality and performance.
+
+Average Metrics:
+avg_steps: 9326.0
+avg_heart_rate: 72.2
+avg_sleep_hours: 7.9
+avg_sleep_quality: 78.8
+avg_performance: 81.7
+
+Correlations:
+sleep_quality_vs_performance: 0.58
+steps_vs_performance: 0.66
+heart_rate_vs_performance: -0.31
+
+Weekly Performance Trend (ASCII Chart):
+    80.8 | 
+    82.0 | ████████████████████████████████████████████
+    82.1 | ██████████████████████████████████████████████████
+    81.9 | ███████████████████████████████████████
+    81.0 | ████████
+--------------------------------------------------
+
+User 10 Analysis
+--------------------------------------------------
+
+Key Insights:
+- Strong positive correlation between sleep quality and performance.
+
+Average Metrics:
+avg_steps: 8301.5
+avg_heart_rate: 75.8
+avg_sleep_hours: 7.7
+avg_sleep_quality: 74.8
+avg_performance: 74.9
+
+Correlations:
+sleep_quality_vs_performance: 0.67
+steps_vs_performance: 0.67
+heart_rate_vs_performance: -0.14
+
+Weekly Performance Trend (ASCII Chart):
+    73.2 | 
+    74.6 | ███████████████████
+    73.6 | ████
+    76.3 | █████████████████████████████████████████████
+    76.6 | ██████████████████████████████████████████████████
+--------------------------------------------------
