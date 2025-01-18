@@ -45,7 +45,8 @@ Once the server is running, you can access:
 
 The API comes with interactive documentation powered by Swagger UI. Here's what we can see when visit to http://localhost:8000/docs:
 
-![FastAPI Docs](https://i.imgur.com/YVEWBtb.png)
+<img width="1431" alt="Screenshot 2025-01-18 at 2 09 47 AM" src="https://github.com/user-attachments/assets/7c7a2d4e-9805-49e5-af68-5fd1f66ed502" />
+
 
 What is possible:
 - Explore available endpoints
