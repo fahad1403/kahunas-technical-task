@@ -119,6 +119,11 @@ Try these example prompts to interact with the Kahunas Fitness Coach:
 - "How do I adjust my squat technique to prevent knee pain?"
 - "Explain the difference between compound and isolation exercises"
 
+## Frontend - with a simple conversation
+
+<img width="1127" alt="chat-greetings" src="https://github.com/user-attachments/assets/2ba8b63d-acdb-45f4-b638-a278f07582f7" />
+
+
 ## Chatbot Persona
 
 The Kahunas Fitness Coach is designed to be:
